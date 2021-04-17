@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    // ButtonColors
+    <color name="groceries">#B36435</color>
+    <color name="clothing">#C12551</color>
+    <color name="house">#FF6600</color>
+    <color name="phone">#F5C700</color>
+    <color name="vehicle">#6A961F</color>
+
 </resources>

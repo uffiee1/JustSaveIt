@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120363959784",
+    "project_id": "justsaveit",
+    "storage_bucket": "justsaveit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120363959784:android:293fb0caae67b0cd65105d",
+        "android_client_info": {
+          "package_name": "com.uda.justsaveit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120363959784-8tf0q1buro55vc9mska44c1nmfm5645h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cbqQxcFduQ5zIRE8vGdk0_68lldIbUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120363959784-8tf0q1buro55vc9mska44c1nmfm5645h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
